@@ -1,9 +1,4 @@
 //
-//  cRuta.swift
-//  final
-//
-//  Created by Gabriel Urso Santana Reyes on 28/12/16.
-//  Copyright © 2016 Gabriel Urso Santana Reyes. All rights reserved.
 //
 
 import UIKit
