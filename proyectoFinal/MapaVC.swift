@@ -1,9 +1,4 @@
 //
-//  MapaVC.swift
-//  proyectoFinal
-//
-//  Created by Gabriel Urso Santana Reyes on 30/12/16.
-//  Copyright © 2016 Gabriel Urso Santana Reyes. All rights reserved.
 //
 
 import UIKit
